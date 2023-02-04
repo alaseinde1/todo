@@ -36,7 +36,7 @@ h1 {
 
 /* Add styles  hyperlink*/
 
-#nav-link {
+nav-link {
   text-align: center;
   color: blue;
   text-decoration: underline;
