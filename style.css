@@ -14,7 +14,7 @@ h1 {
         font-size: 36px;
         font-weight: bold;
         margin-top: 50px;
-        color: blue;
+        color: green;
         text-decoration: underline;
       }
 
@@ -32,8 +32,18 @@ h1 {
         width: 560px;
         height: 315px;
         margin-top: 50px;
-
 }
+
+/* Add styles  hyperlink*/
+
+#nav-link {
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+
 
 
 form {
